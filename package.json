@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/bindcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bind URLs and case query parts with stable normalization.",
+  "bin": {
+    "bindcase": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/bindcase.git"
+  },
+  "homepage": "https://theworker02.github.io/bindcase/",
+  "keywords": [
+    "bind",
+    "case",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
